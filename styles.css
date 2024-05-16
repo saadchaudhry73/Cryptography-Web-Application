@@ -1,0 +1,127 @@
+.title { 
+	font-size: 35px; 
+	margin-bottom: 20px; 
+	color: rgb(214, 37, 13); 
+} 
+.container{
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+    background-color: #fff; 
+	border-radius: 20px; 
+	box-shadow: 0 0 40px 0px rgba(0, 0, 0, 0.1); 
+	padding: 40px; 
+	margin: 20px; 
+}
+ textarea{
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+    border-radius: -3%;
+
+}
+h1{
+   font-family: verdana;
+   font-size: 40px;
+   font-style: italic;
+   font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color: lightblue;
+  }
+
+  .container1{
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+    background-color: #fff; 
+	border-radius: 20px; 
+	box-shadow: 0 0 40px 0px rgba(0, 0, 0, 0.1); 
+	padding: 40px; 
+	margin: 20px; 
+}
+ textareaa{
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+    border-radius: -3%;
+
+}
+h2{
+	font-size: 35px; 
+	margin-bottom: 20px; 
+	color: rgb(214, 37, 13); 
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    margin: 3rem; 
+	padding: 0;
+  }
+
+
+.btn { 
+	background-color: #5272ee; 
+	color: #ffffff; 
+	border: none; 
+	padding: 13px; 
+	border-radius: 10px; 
+	outline: none; 
+	cursor: pointer; 
+	box-shadow: 0 0 10px 0px grey; 
+	margin: 5px; 
+} 
+.btn:hover { 
+	background-color: #0056b3; 
+} 
+.btn1 { 
+	background-color: #5272ee; 
+	color: #ffffff; 
+	border: none; 
+	padding: 13px; 
+	border-radius: 10px; 
+	outline: none; 
+	cursor: pointer; 
+	box-shadow: 0 0 10px 0px grey; 
+	margin: 5px; 
+} 
+.btn1:hover { 
+	background-color: #0056b3; 
+} 
+
+.success-message { 
+	color: rgb(0, 0, 0); 
+	margin-top: 10px; 
+	font-weight: bold; 
+	font-family: cursive; 
+}
+
+
+/* Dorpdown  */
+
+.dropbtn {
+	background-color: #4CAF50;
+	color: white;
+	padding: 16px;
+	font-size: 16px;
+	border: none;
+	cursor: pointer;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+	position: relative;
+	display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-menu {
+	display: none;
+	position: absolute;
+	background-color: #e25f5f;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+  }
+  
+  
